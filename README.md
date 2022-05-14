@@ -11,16 +11,15 @@ Before the Cosmos Network, blockchains were siloed and unable to communicate wit
 ICF (The interchange foundation) rasied 16.8 million USD in 2017 for the funding of Cosmos network. 
 Cosmos has grown since to have 38 different blockchains, more than 250 projects built on the ecosystem and over $100 billion in digital assets riding atop the network.
 
-### **Tokecnomics**
+### **Tokenomics**
 ----
-- ICO was 236 million USD in  initial supply.
-- 80% sold to early investors and 20% was distributed between gnite (Formerly known as Tenderment)  and ICF. 
-- Finished vesting in Feb 2021
-40% of circulating supply are owned by 25 wallets (Not labeled) 
-- Staking rewards are depending on amount of staking to the total the supply, 10 % with 60% of the 236 millions being staked, with floor staking down to 7%. 
+- ICO with 236 million USD in initial supply.
+- 80% sold to early investors and 20% was distributed between Ignite (Formerly known as Tenderment)  and ICF. 
+- Finished vesting in Feb 2021 
+- Inflation rate is depending on amount of staking to the total the supply, 10 % inflation when 60% of the 236 millions being staked, with in rates between 7-20%.
 - Staking rewards are 17% for validators and 15.5% for delegators with 21 days lockout period 
 
-**Cosmos** is currernly runnning more than 250 apps and services and some of the most known blockchains on the Cosmos networks are Binance chain, Crypto.com, Thorchain, Ankor protocol and the infamous Terra Luna. With total of 65 Billions USD of digital assets under their mangement.  
+**Cosmos** is currernly runnning more than 250 apps and services and some of the most known blockchains on the Cosmos networks are Binance chain, Crypto.com, Thorchain, Ankor protocol and the infamous Terra Luna. With total of 65 Billions USD of digital assets under their management.  
 
 
 ### **Cosmos in action** 
@@ -42,7 +41,7 @@ These limitations are not specific to Ethereum but to all blockchains trying to 
 
 
 
-**Cosmos** has a set of open source tools like Tendermint, the Cosmos SDK and IBC designed to let people build custom, secure, scalable and interoperable blockchain applications quickly.
+**Cosmos** has a set of open source tools like Tendermint, the Cosmos SDK and IBC (Inter- Blockchain Communication protocol) designed to let people build custom, secure, scalable and interoperable blockchain applications quickly.
 
 Until recently, building a blockchain required building all three layers (Networking, Consensus, and Application) from the ground up. Ethereum simplified the development of decentralized applications by providing a Virtual-Machine blockchain on which anyone could deploy custom logic in the form of Smart Contracts. However, it did not simplify the development of blockchains themselves. Much like Bitcoin, Go-Ethereum remains a monolithic tech stack that is difficult to fork from and customize. This is where Tendermint, created by Jae Kwon in 2014, came in. ***Tendermint BFT** is a solution that packages the networking and consensus layers of a blockchain into a generic engine, allowing developers to focus on application development as opposed to the complex underlying protocol. As a result, Tendermint saves hundreds of hours of development time.
 ![](Tenderment.svg)
@@ -73,7 +72,7 @@ In practice, Cosmos’ multi-hub system architecture does not try to unify all z
 | Developers in 2021 | 1400 | 950 |
 | Market cap May 2022 in USD | 10B | 2.8B
 
-There is certainly competition between the two networks and which one will take the crown for interoperability, but until now, Polkadot hasn't activate the cross-chain communication protocol, whereas Cosmos is much more interoperable, smoother and much more user friendly, and with it's market cap it has a bigger potentail of growth, despite the fact Polkadot is getting a strong backup from big institutions. 
+There is certainly competition between the two networks and which one will take the crown for interoperability, is still to be decided. But until now, Polkadot hasn't activated the cross-chain communication protocol, whereas Cosmos is much more interoperable, smoother and much more user friendly, and with it's market cap it has a bigger potential of growth, despite the fact Polkadot is getting a strong backup from big institutions. 
 
 There are other competitors but some uses cross-chain which is inferior to multi-chain like Cosmos and Polkadot. 
 Vitalik Buterin quote.
@@ -82,7 +81,7 @@ Vitalik Buterin quote.
 ***Recommendation***
 One of the concerns with Cosmos network is it's token ATOM. Current main ATOM value is in staking. It does have value in the utility and in the governance. But with the inflationary design of the token between 7-20% there is no value of buying it and holding it in exchanges that can potentially increase the demand, rather than you have to stake it to compensate the inflation rate of the token. And in terms of it's utility, until now, it's the main token within the ecosystem but you can see other projects within the Cosmos ecosystem being fully indepentant that may eliminate the need to own Cosmos, with ptojects like Osmosis having it's own token OSMO which can be bought directly from exchanges. 
 
-One of the possible solutions for such risk on ATOM is to be the only token to be utalized within the Cosmos ecosystem including the rewards from staking instead of the giving rewards in the application on the Cosmos network. 
+One of the possible solutions for such risk on ATOM is to be the only token to be utilized within the Cosmos ecosystem including the rewards from staking instead of the giving rewards in the application on the Cosmos network. 
 
 ***References***
 >https://cosmos.network/gravity-dex
